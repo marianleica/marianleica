@@ -1,0 +1,10 @@
+title: My GitHub Page
+description: A description of my GitHub Page
+theme: minima
+
+# Optional settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+
+# Other settings
+markdown: kramdown
